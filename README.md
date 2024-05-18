@@ -1,8 +1,8 @@
 ### Hello
 
-A student who is passionate about learning techologies used in web development.
+A student who is passionate about learning technologies used in web development.
 
-## Techonologies i am currently learning
+## Technologies i am currently learning
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />         
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />        
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
